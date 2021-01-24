@@ -3,6 +3,11 @@ body
     color:deeppink;
     text-align: center;
     font-family: "Arial";
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -34,4 +39,8 @@ body
 #container h1
 {
     font-size: 20px;
+<<<<<<< HEAD
+=======
+>>>>>>> cabecera
+>>>>>>> master
 }
