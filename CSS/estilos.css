@@ -1,10 +1,17 @@
 body 
 {
+<<<<<<< HEAD
     color:rgb(75, 20, 255);
+=======
+    color:rgb(255, 20, 20);
+>>>>>>> cabecera
     text-align: center;
     font-family: "Arial";
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> master
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -36,5 +43,8 @@ body
 #container h1
 {
     font-size: 20px;
+<<<<<<< HEAD
+=======
 >>>>>>> cabecera
+>>>>>>> master
 }
